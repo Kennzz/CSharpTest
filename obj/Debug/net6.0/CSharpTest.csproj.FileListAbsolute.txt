@@ -1,0 +1,15 @@
+/var/www/html/CSharpTest/bin/Debug/net6.0/CSharpTest
+/var/www/html/CSharpTest/bin/Debug/net6.0/CSharpTest.deps.json
+/var/www/html/CSharpTest/bin/Debug/net6.0/CSharpTest.runtimeconfig.json
+/var/www/html/CSharpTest/bin/Debug/net6.0/CSharpTest.dll
+/var/www/html/CSharpTest/bin/Debug/net6.0/ref/CSharpTest.dll
+/var/www/html/CSharpTest/bin/Debug/net6.0/CSharpTest.pdb
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.csproj.AssemblyReference.cache
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.AssemblyInfoInputs.cache
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.AssemblyInfo.cs
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.csproj.CoreCompileInputs.cache
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.dll
+/var/www/html/CSharpTest/obj/Debug/net6.0/ref/CSharpTest.dll
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.pdb
+/var/www/html/CSharpTest/obj/Debug/net6.0/CSharpTest.genruntimeconfig.cache
